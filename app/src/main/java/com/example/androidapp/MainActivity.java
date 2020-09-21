@@ -50,11 +50,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 outA.setText("0");
                 outB.setText("0");
-
             }
         });
     }
-
 
     public void setButton(Button button, final TextView textView, final Integer integer) {
         button.setOnClickListener(new View.OnClickListener() {
