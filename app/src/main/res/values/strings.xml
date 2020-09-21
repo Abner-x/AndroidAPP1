@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidAPP</string>
+    <string name="title">CourtCounter</string>
+    <string name="courtcounter">CourtCounter</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="ScoreOfA">0</string>
+    <string name="ScoreOfB">0</string>
+    <string name="APlus3">+3 POINTS</string>
+    <string name="APlus2">+2 POINTS</string>
+    <string name="AFREE">FREE THROW</string>
+    <string name="BPlus3">+3 POINTS</string>
+    <string name="BPlus2">+2 POINTS</string>
+    <string name="BFREE">FREE THROW</string>
+    <string name="RESET">RESET</string>
+</resources>
